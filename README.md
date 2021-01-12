@@ -1,5 +1,7 @@
 # Deep Space Network : Mission Control and Duplex Communication System For Spacecrafts
-SpaceXYZ is in the business of launching rockets and satellites into space for its customers. The launch vehicle or the "Rocket" and the payload that may be a satellite are two components of each SpaceXYZ spacecraft launch. SpaceXYZ has a Deep Space Network (DSN) facility with a communication system and mission control system from which it launches and interacts with its spacecraft. SpaceXYZ wants to design a software system to run their operations.
+
+**Developed TCP-IP based Service Oriented Architecture for Deep Space Network using the Windows Communication Foundation (WCF) for Asynchronous Message Transfer and the Windows Presentation Foundation (WPF) for UI development.**
+
 SpaceXYZ is in the business of launching rockets and satellites into space for its customers. The launch vehicle or the "Rocket" and the payload that may be a satellite are two components of each SpaceXYZ spacecraft launch. SpaceXYZ has a Deep Space Network (DSN) facility with a communication system and mission control system from which it launches and interacts with its spacecraft. SpaceXYZ wants to design a software system to run their operations.
 SpaceXYZ wants you to design a software system to run their operations. This software system can be classified as follows: 
 
