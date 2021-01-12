@@ -1,4 +1,4 @@
-# Deep-Space-Network---Mission-Control-and-Duplex-Communication-System
+# Deep Space Network : Mission Control and Duplex Communication System
 SpaceXYZ is in the business of launching rockets and satellites into space for its customers. The launch vehicle or the "Rocket" and the payload that may be a satellite are two components of each SpaceXYZ spacecraft launch. SpaceXYZ has a Deep Space Network (DSN) facility with a communication system and mission control system from which it launches and interacts with its spacecraft. SpaceXYZ wants to design a software system to run their operations.
 SpaceXYZ is in the business of launching rockets and satellites into space for its customers. The launch vehicle or the "Rocket" and the payload that may be a satellite are two components of each SpaceXYZ spacecraft launch. SpaceXYZ has a Deep Space Network (DSN) facility with a communication system and mission control system from which it launches and interacts with its spacecraft. SpaceXYZ wants to design a software system to run their operations.
 SpaceXYZ wants you to design a software system to run their operations. This software system can be classified as follows: 
@@ -49,27 +49,28 @@ After t seconds have elapsed Launch-Vehicle needs to "update" DSN that it has re
 
 **Commands:**
 
- Launch-Vehicle software should accept following Commands from DSN:  
-DeployPayload: Start the Payload software program/executable with the configured Payload Config-File.  
-Deorbit: End the Launch-Vehicle software program to simulate that Launch-Vehicle has been de-orbited.  
-StartTelemetry: Start sending (random/realistic up to you) telemetry data every second to DSN.  
-StopTelemetry: Stop sending telemetry data to DSN.
+**Launch-Vehicle software should accept following Commands from DSN:**  
+[1] DeployPayload: Start the Payload software program/executable with the configured Payload Config-File.  
+[2] Deorbit: End the Launch-Vehicle software program to simulate that Launch-Vehicle has been de-orbited.  
+[3] StartTelemetry: Start sending (random/realistic up to you) telemetry data every second to DSN.  
+[4] StopTelemetry: Stop sending telemetry data to DSN.
  
-Payload software should accept following Commands from DSN:  
-StartData: Start sending data configured according to "Type" in Payload Config-File to DSN.
-StopData: Stop sending data to DSN  
-Decommission: End Payload software program to simulate that Payload has ended its mission.  
-StartTelemetry: Start sending (random/realistic up to you) telemetry data every second to DSN.  StopTelemetry: Stop sending telemetry data to DSN. 
+**Payload software should accept following Commands from DSN:**  
+[1] StartData: Start sending data configured according to "Type" in Payload Config-File to DSN.
+[2] StopData: Stop sending data to DSN  
+[3] Decommission: End Payload software program to simulate that Payload has ended its mission.  
+[4] StartTelemetry: Start sending (random/realistic up to you) telemetry data every second to DSN.  StopTelemetry: Stop sending telemetry data to DSN. 
 
 **Telemetry:**
 
 Telemetry data sent by either Launch-Vehicle or Payload can be random or realistic.  
 Each piece of telemetry can include following information 
-Altitude: in km 
-Longitude: in degrees (-90 deg (South) to +90 deg (North)) 
-Latitude: in degrees (-180 deg (West) to 180 deg (East)) 
-Temperature: in kelvin 
-Time to Orbit: in seconds counting down to 0 (This must be the from above t calculation)  
+[1] Altitude: in km 
+[2] Longitude: in degrees (-90 deg (South) to +90 deg (North)) 
+[3] Latitude: in degrees (-180 deg (West) to 180 deg (East)) 
+[4] Temperature: in kelvin 
+[5] Time to Orbit: in seconds counting down to 0 (This must be the from above t calculation)  
+
 Example:
 
 
