@@ -73,4 +73,15 @@ Each piece of telemetry can include following information
 
 Example:
 
+**INSTRUCTIONS TO RUNTHE PROJECT**
+
+[1] **FRONT END** : **WPF** (SpaceXYZ (Vehicle Launch), SpaceNetwork (DSN), Payload (Payload Component))
+[2] **BACK END** : **WCF** (Messaging Service, Interface)
+[3] SET ‘MessagingServer’ and ‘SpaceNetwork’ as start projects which will act as a server and client respectively.
+[4] We have to update a path of the .exe file in the SpaceXYZ and SpaceNetwork project.
+Ex: 
+**Process p = new Process();
+ p.StartInfo = new ProcessStartInfo("C:\\Users\\dmali\\source\\repos\\SpaceXYZ\\SpaceXYZ\\bin\\Debug\\SpaceXYZ.exe");**                
+[5] If we exit the Spacecraft and Payload WPF files then DSN will automatically be called ‘Deorbit’ Instruction.
+[6] For more details I have also uploaded a video demo.
 
