@@ -1,0 +1,6 @@
+C:\Users\dmali\source\repos\SpaceZ\MessageInterface\bin\Debug\MessageInterface.dll
+C:\Users\dmali\source\repos\SpaceZ\MessageInterface\bin\Debug\MessageInterface.pdb
+C:\Users\dmali\source\repos\SpaceZ\MessageInterface\obj\Debug\MessageInterface.csprojAssemblyReference.cache
+C:\Users\dmali\source\repos\SpaceZ\MessageInterface\obj\Debug\MessageInterface.csproj.CoreCompileInputs.cache
+C:\Users\dmali\source\repos\SpaceZ\MessageInterface\obj\Debug\MessageInterface.dll
+C:\Users\dmali\source\repos\SpaceZ\MessageInterface\obj\Debug\MessageInterface.pdb

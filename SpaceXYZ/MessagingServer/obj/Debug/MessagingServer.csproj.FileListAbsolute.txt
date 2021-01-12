@@ -1,0 +1,10 @@
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\bin\Debug\MessagingServer.exe.config
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\bin\Debug\MessagingServer.exe
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\bin\Debug\MessagingServer.pdb
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\bin\Debug\MessageInterface.dll
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\bin\Debug\MessageInterface.pdb
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\obj\Debug\MessagingServer.csprojAssemblyReference.cache
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\obj\Debug\MessagingServer.csproj.CoreCompileInputs.cache
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\obj\Debug\MessagingServer.csproj.CopyComplete
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\obj\Debug\MessagingServer.exe
+C:\Users\dmali\source\repos\SpaceZ\MessagingServer\obj\Debug\MessagingServer.pdb

@@ -1,0 +1,17 @@
+C:\Users\dmali\source\repos\SpaceZ\DSN\bin\Debug\DSN.exe.config
+C:\Users\dmali\source\repos\SpaceZ\DSN\bin\Debug\DSN.exe
+C:\Users\dmali\source\repos\SpaceZ\DSN\bin\Debug\DSN.pdb
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\MainWindow.g.cs
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\ViewSpacecrafts.g.cs
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\App.g.cs
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN_MarkupCompile.cache
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN_MarkupCompile.lref
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\MainWindow.baml
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\ViewSpacecrafts.baml
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.g.resources
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.Properties.Resources.resources
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.csproj.GenerateResource.cache
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.csproj.CoreCompileInputs.cache
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.exe
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.pdb
+C:\Users\dmali\source\repos\SpaceZ\DSN\obj\Debug\DSN.csprojAssemblyReference.cache
